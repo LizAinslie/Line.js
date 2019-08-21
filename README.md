@@ -33,7 +33,7 @@ Returns the angle in radians between two points
 ``Line.getLineAngle (line)``
 Returns the angle in radians of a line
 
-```Line.lineLineCollision (line1, line2)``
+``Line.lineLineCollision (line1, line2)``
 Returns the point where two lines intersect
 
 ``Line.pointLineCollision (point, line)``
