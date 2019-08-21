@@ -1,2 +1,2 @@
-## Line.js
-`A library making line collisions easy`
+# Line.js
+A library making line collisions easy
