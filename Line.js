@@ -1,3 +1,5 @@
+var Line = {};
+
 Line.newPoint = function (x, y) { return {x:x, y:y} }
 Line.newLine = function (x1, y1, x2, y2) { return {start:{x:x1,y:y1}, end:{x:x2,y:y2}} };
 Line.newCircle = function (x, y, r) { return {point:{x:x,y:y}, r:r} };
